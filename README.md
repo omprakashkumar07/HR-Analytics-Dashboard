@@ -15,7 +15,7 @@ To identify key factors affecting employee attrition and generate insights using
 - Job role significantly impacts employee retention
 
 ## Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Files Included
 - Dataset (CSV/Excel)
